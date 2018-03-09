@@ -33,6 +33,8 @@ void QuadraticEquationOpgave(){
     while (retry == "y" || retry == "Y");
 }
 
+
+
 int main(){
 QuadraticEquationOpgave();
 }
